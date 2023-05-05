@@ -3,12 +3,12 @@ entries:
   rockyapps:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-05T14:11:08.840569246+05:30"
+    created: "2023-05-05T14:43:58.06121644+05:30"
     description: A Helm chart for Kubernetes
-    digest: e4048b59897e42b8fb54fe8bb8498fac81320114b02c23605ba21068f4b827ed
+    digest: 9b2df09b3b44abd5e8f5f51e70aa6b78c4059399d619f138cb078674b97f8f6c
     name: rockyapps
     type: application
     urls:
-    - https://github.com/rocky19devops/rockycharts.git/rockyapps-0.1.0.tgz
+    - https://rocky19devops.github.io/rockycharts/rockyapps-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-05T14:11:08.839211371+05:30"
+generated: "2023-05-05T14:43:58.060382652+05:30"
